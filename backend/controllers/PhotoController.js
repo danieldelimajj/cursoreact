@@ -180,7 +180,6 @@ const commentPhoto = async (req, res) => {
         return;
     }
 
-
 // Put comment in the array comments
 
     const userComment = {
